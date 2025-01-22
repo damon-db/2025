@@ -1,0 +1,37 @@
+baseURL = 'https://damon-db.github.io/2025/'
+languageCode = 'en-us'
+title = 'DaMoN 2025 Workshop'
+
+disableKinds = ["taxonomy", ]
+
+[params]
+  [params.banner]
+    image = "img/title_Berlin.jpg"
+  [params.workshop]
+    number = 21
+    title = "Data Management on New Hardware (DaMoN)"
+    date = "Monday June 23, 2025"
+  [params.conference]
+    title = "ACM SIGMOD/PODS"
+    link = "https://2025.sigmod.org/"
+    year = 2025
+    location = "Berlin, Germany" 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true # default is false
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+        errorLevel = 'warning' # ignore (default), warning, or error (fails the build)
+
+[module]
+  [[module.imports]]
+    path = "github.com/damondb/hugo-damon-db"
+
+[build]
+  writeStats = true
