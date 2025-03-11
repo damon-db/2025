@@ -3,8 +3,6 @@
   "version": "0.0.1",
   "description": "Website for DaMoN 2025 Workshop",
   "author": "damon-db",
-  "dependencies": {
-  },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^6.0.0",
     "autoprefixer": "^10.4.19",
