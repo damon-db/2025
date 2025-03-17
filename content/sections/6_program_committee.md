@@ -26,4 +26,20 @@ theme: "damon-dark"
 
 
 ## Members
-TBD
+- Anastasia Ailamaki, EPFL, Switzerland
+- Yannis Chronis, Google, USA
+- Muhammad El-Hindi, Technische Universität Darmstadt, Germany
+- Jana Giceva, Technische Universität München, Germany
+- Norman May, SAP SE, Germany
+- Beng Chin Ooi, National University of Singapore, Singapore
+- Orestis Polychroniou, Amazon Web Services, USA
+- Danica Porobic, Oracle, Switzerland
+- Tilmann Rabl, Hasso Plattner Institute/ University of Potsdam, Germany
+- Kenneth Ross, Columbia University, USA
+- Rathijit Sen, Microsoft, USA
+- Utku Sirin, Harvard University, USA
+- Rebecca Taft, Cockroach Labs, USA
+- Pinar Tozun, IT University of Copenhagen, Denmark
+- Tianzheng Wang, Simon Fraser University, Canada
+- Huanchen Zhang, Tsinghua University, China
+- Tobias Ziegler, Technische Universität München, Germany
