@@ -50,7 +50,7 @@ Paper submission: ~~March 14th, 2025~~ March 21st, 2025 (11:59pm AoE)
 
 Notification of acceptance: April 28th, 2025
 
-Camera-ready copies: TBD
+Camera-ready copies: May 23rd, 2025
 
 Workshop: June 23rd, 2025
 
