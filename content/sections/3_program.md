@@ -6,6 +6,6 @@ theme: "damon-light"
 
 # Workshop Program
 
-## Program - Monday (June 23, 2025), Room: TBD
+## Program - Monday (June 23, 2025), Room: Charlottenburg I/II
 
 TBD
