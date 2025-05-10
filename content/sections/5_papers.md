@@ -7,4 +7,6 @@ theme: "damon-light"
 # Accepted Papers
 
 
-TBD
+{{< accepted_papers
+    file="data/papers.csv"
+>}}
