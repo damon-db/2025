@@ -6,6 +6,7 @@ hideMenu: true
 
 # News
 
+- [Preliminary Workshop Program](#workshop-program-preliminary) has been posted!
 - [Accepted papers](#accepted-papers) have been posted!
 - Camera-ready due date is: May 23rd, 2025
 - Paper submission [deadline extended](#important-dates) by a week to: March 21st, 2025 (11:59pm AoE)
