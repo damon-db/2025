@@ -14,7 +14,7 @@ theme: "damon-light"
 10:00-10:05 **Opening by Workshop Organizers**
 {.px-3}
 
-11:05-11:00 Keynote Talk: **(Thomas Neumann, TU Munich)**
+10:05-11:00 Keynote Talk: **(Thomas Neumann, TU Munich)**
 {.px-3}
 
 ---
