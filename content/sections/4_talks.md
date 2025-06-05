@@ -24,6 +24,8 @@ theme: "damon-dark"
 ### The Power of an Instruction
 <h4 style="text-align: center;">Michal Friedman, ETH Zurich</h4>
 
+![Potrait of David Patterson](/img/michal_friedman.jpg)
+
 **Abstract**: Over the past few decades, the evolution of instructions, serving as the primary interface exposed by new hardware architectures, has significantly influenced how we write and optimize software. These instructions have even become so deeply embedded in libraries and abstractions that they are often invisible to the typical programmer.
 
 Yet, selecting and leveraging the right instructions can have a substantial impact on both performance and correctness of the systems built on top of them. In this talk, I will explore the influence of modern instruction set extensions such as AVX for vectorized computation, CLFLUSH for cache management, and PREFETCH for reducing memory latency, and how they shape algorithm design, data layout and system behaviour.
