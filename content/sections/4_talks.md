@@ -21,14 +21,18 @@ theme: "damon-dark"
 
 ## Fresh Thinking Talk
 
-### Title Coming Soon
+### The Power of an Instruction
 <h4 style="text-align: center;">Michal Friedman, ETH Zurich</h4>
 
-**Abstract**: Coming soon
+**Abstract**: Over the past few decades, the evolution of instructions, serving as the primary interface exposed by new hardware architectures, has significantly influenced how we write and optimize software. These instructions have even become so deeply embedded in libraries and abstractions that they are often invisible to the typical programmer.
+
+Yet, selecting and leveraging the right instructions can have a substantial impact on both performance and correctness of the systems built on top of them. In this talk, I will explore the influence of modern instruction set extensions such as AVX for vectorized computation, CLFLUSH for cache management, and PREFETCH for reducing memory latency, and how they shape algorithm design, data layout and system behaviour.
+
+Furthermore, I will outline potential advancements including mechanisms like eliminating redundant cache flushes and introducing multi-word compare-and-swap operations. We will explore how such extensions could simplify synchronization and reduce overhead, particularly in disaggregated and high-concurrency environments. These proposals aim to push the boundaries of what low-level primitives can offer, demonstrating how the smallest units of computation can impact on how we design and reason about modern systems.
 
 <details>
   <summary>About the Speaker</summary>
-  Coming soon.
+  Michal Friedman is an Assistant Professor at the Systems Group at the department of Computer Science of ETH Zurich. Her research interests include systems, concurrent computing, programming languages and sustainable computing. Her research focuses on designing system fundamentals, across software and hardware, to improve the performance and efficiency while guaranteeing correctness of next-generation computing platforms and emerging technologies. Prior to that, she did a postdoc at the System Group. She completed her Ph.D. in Computer Science at the Technion and was generously supported by the Azrieli Foundation Fellowship. She completed her BSc summa cum laude at the Computer Science Department at the Technion as well.
 </details>
 
 --- 
