@@ -7,14 +7,22 @@ theme: "damon-dark"
 # Keynote & Invited Talks
 
 ## Keynote Talk
-### Title Coming Soon
+### Building Portable, Low-Latency Query Compilers
 <h4 style="text-align: center;">Thomas Neumann, TU Munich</h4>
 
-**Abstract**: Coming soon
+![Potrait of David Patterson](/img/thomas_neumann.jpg)
+
+**Abstract**: Compiling SQL queries into native machine code is appealing due to the elimination of interpretation overhead and the potential for highly efficient execution. However, there are concerns regarding code complexity, compilation time, and portability across hardware platforms. In this talk, we will demonstrate that it is possible to build a low-latency query compiler by factoring out the complex components, implementing them only once. The platform-specific components are then relatively straightforward, facilitating the targeting of new hardware platforms. Compared to traditional compiler backends, this approach achieves nearly the same execution speed while significantly reducing compilation times, thereby greatly improving overall query latency.
 
 <details>
   <summary>About the Speaker</summary>
-  Coming soon.
+  Thomas Neumann is a full professor in the Department of Computer Science
+at the Technical University of Munich. After his PhD in Computer Science
+at the University of Mannheim in 2005, he was Senior Researcher at the
+Max-Planck Institute for Informatics in Saarbrücken until 2010. His
+research interests are in the areas of database systems, query
+processing, and query optimization. He received the VLDB Early Career Award
+in 2014, an ERC Consolidator Grant in 2016, and the Gottfried Wilhelm Leibniz Prize in 2020.
 </details>
 
 --- 

@@ -9,7 +9,7 @@ theme: "damon-light"
 ## Monday (June 23, 2025), Room: Charlottenburg I/II
 
 ---
-#### 10:00-11:00 Session 1: Opening & Keynote
+#### 10:00-11:00 Session 1: Opening & Keynote (Session Chair: Carsten Binnig)
 
 10:00-10:05 **Opening by Workshop Organizers**
 {.px-3}
@@ -20,7 +20,7 @@ theme: "damon-light"
 ---
 #### 11:00 - 11:30 Coffee Break / **Poster Session**
 --- 
-#### 11:30-13:00 Session 2: Memory & I/O
+#### 11:30-13:00 Session 2: Memory & I/O (Session Chair: Jana Giceva)
 
 11:30-11:42 **Fetch Me If You Can: Evaluating CPU Cache Prefetching and Its Reliability on High Latency Memory**. Fabian Mahling (Hasso Plattner Institute, University of Potsdam)*; Marcel Weisgut (Hasso Plattner Institute, University of Potsdam); Tilmann Rabl (Hasso Plattner Institute, University of Potsdam).
 {.px-3}
@@ -43,7 +43,7 @@ theme: "damon-light"
 ---
 #### 13:00 - 14:30 Lunch Break 
 ---
-#### 14:30-16:00 Session 3: Accelerators & Modern Workloads
+#### 14:30-16:00 Session 3: Accelerators & Modern Workloads (Session Chair: Rathijit Sen)
 
 14:30 - 14:42 **Model-Driven Right-Sizing of Offloading in Data Processing Pipelines**. Faeze Faghih (Technical University of Darmstadt)*; Maximilian Hüttner (Technical University of Darmstadt); Florin  Dinu (Huawei Munich Research Center); Zsolt  István (Technical University of Darmstadt).
 {.px-3}
@@ -66,7 +66,7 @@ theme: "damon-light"
 ---
 #### 16:00 - 16:30 Coffee Break / **Poster Session**
 ---
-#### 16:30 - 17:40 Session 4: New Architectures & Cloud
+#### 16:30 - 17:40 Session 4: New Architectures & Cloud (Session Chair: Muhammad El-Hindi)
 
 16:30 - 16:45 **SAP: Sponsor Talk** 
 {.px-3}
