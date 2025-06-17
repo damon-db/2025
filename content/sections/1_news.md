@@ -6,6 +6,7 @@ hideMenu: true
 
 # News
 
+- Check out the information about [our keynote and invited talks](#keynote--invited-talks)!
 - [Preliminary Workshop Program](#workshop-program-preliminary) has been posted!
 - [Accepted papers](#accepted-papers) have been posted!
 - Camera-ready due date is: May 23rd, 2025
