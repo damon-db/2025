@@ -10,7 +10,7 @@ theme: "damon-dark"
 ### Building Portable, Low-Latency Query Compilers
 <h4 style="text-align: center;">Thomas Neumann, TU Munich</h4>
 
-![Potrait of David Patterson](/img/thomas_neumann.jpg)
+![Potrait of Thomas Neumann](/img/thomas_neumann.jpg)
 
 **Abstract**: Compiling SQL queries into native machine code is appealing due to the elimination of interpretation overhead and the potential for highly efficient execution. However, there are concerns regarding code complexity, compilation time, and portability across hardware platforms. In this talk, we will demonstrate that it is possible to build a low-latency query compiler by factoring out the complex components, implementing them only once. The platform-specific components are then relatively straightforward, facilitating the targeting of new hardware platforms. Compared to traditional compiler backends, this approach achieves nearly the same execution speed while significantly reducing compilation times, thereby greatly improving overall query latency.
 
@@ -32,7 +32,7 @@ in 2014, an ERC Consolidator Grant in 2016, and the Gottfried Wilhelm Leibniz Pr
 ### The Power of an Instruction
 <h4 style="text-align: center;">Michal Friedman, ETH Zurich</h4>
 
-![Potrait of David Patterson](/img/michal_friedman.jpg)
+![Potrait of Michal Friedman](/img/michal_friedman.jpg)
 
 **Abstract**: Over the past few decades, the evolution of instructions, serving as the primary interface exposed by new hardware architectures, has significantly influenced how we write and optimize software. These instructions have even become so deeply embedded in libraries and abstractions that they are often invisible to the typical programmer.
 
@@ -49,14 +49,15 @@ Furthermore, I will outline potential advancements including mechanisms like eli
 
 ## Industry Talk
 
-### Title Coming Soon
+### To GPU or Not To GPU: Is that even a question? 
 <h4 style="text-align: center;">Carlo Curino, Microsoft Jim Gray Labs</h4>
 
-**Abstract**: Coming soon
+![Potrait of Carlo Curino](/img/Carlo-Curino-2.jpg)
 
+**Abstract**: In this talk, I will discuss the legendary world of GPUs and accelerated networks for analytics workloads - i.e., how to run SQL on AI Hardware. I will highlight how positive development from valiant paladins from academia clashes with the reality of the AI dragons absorbing all the resources in our data centers. I will also focus on real-world challenges in adopting the advancements and creating enterprise-ready solutions.
 <details>
   <summary>About the Speaker</summary>
-  Coming soon.
+  Carlo Curino is the Partner Director of Research leading the Microsoft Gray Systems Lab (GSL), an applied research group working at the intersection of Databases/Systems/Machine Learning as part of Azure Data. Before this Carlo was a Principal Scientist working on large-scale distributed systems, with a focus on scheduling for BigData clusters; this line of research was co-developed with several team members and open-sourced as part of Apache Hadoop/YARN. Intrinsically, this research work enables us to operate the largest YARN clusters in the world (deployed on 250k + servers within Microsoft). Prior to joining Microsoft he was a Research Scientist at Yahoo!, primarily working entity deduplication and scale and mobile+cloud platforms. Carlo spent two years as a Post Doc Associate at CSAIL MIT working with Prof. Samuel Madden and Prof. Hari Balakrishnan, working on relational databases in the cloud. At MIT he also served as the primary lecturer for the course on databases CS630, taught in collaboration with Mike Stonebraker. Carlo received a Bachelor in Computer Science at Politecnico di Milano. He participated in a joint project between University of Illinois at Chicago (UIC) and Politecnico di Milano, obtaining a Master Degree in Computer Science at UIC and the Laurea Specialistica (cum laude) in Politecnico di Milano. During the PhD at Politecnico di Milano advised by Letizia Tanca, Carlo spent two years as a visiting researcher at UCLA.
 </details>
 
 --- 
@@ -64,7 +65,7 @@ Furthermore, I will outline potential advancements including mechanisms like eli
 ## Sponsor Talk
 
 ### Improving the Performance of the Vector Engine Index in SAP HANA
-<h4 style="text-align: center;">SAP</h4>
+<h4 style="text-align: center;">Lars Hoemke, SAP</h4>
 
 **Abstract**: SAP HANA Cloud features a Vector Engine for use in Retrieval-Augmented Generation (RAG) to improve the quality of response of AI-powered business applications using external knowledge. We share results of the micro-architectural analysis of the index construction time.  Based on this analysis we share how tuning the code significantly improved the performance of index construction.  Key to these improvements were NUMA optimizations and harnessing the memory prefetcher of modern Intel CPUs.
 
